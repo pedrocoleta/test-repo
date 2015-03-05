@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Texto localmente introducido
+=======
+prueba de texto escrito en remoto github
+>>>>>>> 0b817f168f3ee65535fe326ba77aa50979461435
